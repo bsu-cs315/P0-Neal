@@ -1,6 +1,6 @@
 # P0-Neal
 # Project 0: Dodge the Creeps
-A tutorial implementation by (Your Name Here).
+A tutorial implementation by Gavin Neal.
 
 This project follows the [Your First Game tutorial from
 godotengine.org](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html).
@@ -30,7 +30,8 @@ version 1.1. Details are in `fonts/LICENSE.txt`.
 - [X] D-1 The repository is in the course organization and contains a README.md file in its top-level directory.
 - [X] C-1 The tutorial has been completed.
 - [X] C-2 All commit messages comply with the required format.
-- [X] B-1 
-- [ ] A-1
+- [X] B-1 Your .gitignore file is correctly specified in the repository.
+- [X] B-2 No unnecessary/generated files are tracked in the repository.
+- [ ] A-1 The project report is complete as per the instructions.
 
-This work therefore merits a B.
+This work therefore deserves a B.
